@@ -249,12 +249,12 @@ footer a {
         height: auto;
     }
 
-    .video2 iframe {
+    .video2 {
         width: 95%;
         height: 320px;
     }
 
-    .video3 iframe {
+    .video3  {
         width: 95%;
         height: 320px;
     }
